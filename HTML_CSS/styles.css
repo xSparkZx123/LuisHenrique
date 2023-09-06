@@ -1,7 +1,8 @@
 .cabeçalho{
-    background-color: aquamarine;
+    background-color: aquamarine; 
 }
 
 .rodapé{
     background-color: black;
+    color: white;
 }
