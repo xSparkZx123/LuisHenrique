@@ -4,5 +4,12 @@
     font-size: 2cm; /*coloca tamanho da fonte*/
     color: aliceblue; /*coloca cor da fonte*/
     width: 100%; /*coloca largura da janela*/
-    height: 80%;/*coloca altura do espaço do cabeçalho*/
+    height: 80%; /*coloca altura do espaço do cabeçalho*/
+    text-align: center; /*alinha o texto do titulo*/
+    justify-content: space-between; /*colocar espaço entre os objetos do cabeçalho*/
+    align-items: center;
+    margin: 1cqi; /*alinha os objetos ao centro vertical do espaço*/
+}
+.logotipo{
+    
 }
