@@ -1,5 +1,7 @@
 @import url(styles/header.css);
-
+@import url(styles/footer.css);
+@import url(styles/principal.css);
+@import url(styles/resset.css);
 
 body{
     display: block;
